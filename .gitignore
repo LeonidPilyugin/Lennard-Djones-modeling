@@ -4,3 +4,10 @@
 *.ptx
 *.cubin
 *.fatbin
+*.pem
+*.ppk
+*.gif
+*.zip
+*.xyz
+*.txt
+*.png

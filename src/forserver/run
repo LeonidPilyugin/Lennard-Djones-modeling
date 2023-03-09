@@ -1,0 +1,4 @@
+#!/bin/bash
+nvcc -o gas realgas.cu
+rm output.txt
+./gas > out &
